@@ -1,0 +1,11 @@
+npx @modelcontextprotocol/inspector node mcp-server.js
+npx @playwright/mcp@latest --port 8931
+
+
+INSTALLATION GUIDE FOR MICRO SANDBOX
+
+https://www.google.com/search?q=E2B+mcp&sca_esv=9e1beb2d6882991f&sxsrf=ANbL-n66mlOhqjWvqr3HBaevvsWLPL-ADQ%3A1769544097031&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3jljrY5CkLlk8Dq3IvwBz-SJyfRX_inP-J3Cs9lQZu9JC8DiUG6qMRySOJxhrHTckGj_12g3BQ61PQ3-wxupQlKC4HicIQIYhtagPFRXF9WbznrYoYbeQyyU6dSoPPbwip6KHS44TZNmOMhqtmdhopYEPSjNcguYxeiAgsv7AboWWXp3QA&aep=1&ntc=1&sa=X&ved=2ahUKEwjZosW6waySAxUnUqQEHRqXHtEQ2J8OegQIEhAE&biw=1396&bih=663&dpr=1.38&aic=0&mtid=6xl5adSGIuqdkdUPrPTnuAc&mstk=AUtExfB4UHgSfu2FCNDg6qI6JZMNiMTuWNiW-x9neGmLithPMT-xwxn1emUzS4bKUjpXa7f6GLGLhEsOzqAAn7yS1cdz2WKoBPYkW2D0RXi1sE0usuBiKKJocz1bBrJqWBXasIqmD_Z0wohCYDR09KOA4AB-U5qF-HrADA7hjJWhW2bS0vCwvHeoktTy97bIo3Cs5mDOUcASEtB1a2QSb9p5P49Pj-ssRSvq_2mTVlqGRe2mB_PUqurInUsyNEnZeTKXkGqrclUSnWzNds1tMJntnHO9IJjdAjrzXybTx4UBAwCsH9zK3XOqZ9DYXVEkAn1VpmVj8l2gFgf60g&csuir=1
+
+
+
+https://wikidocs.net/267814
